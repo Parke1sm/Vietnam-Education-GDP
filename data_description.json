@@ -1,0 +1,14 @@
+{
+  "Year": {
+    "type": "integer",
+    "description": "Calendar year from 2001 to 2020"
+  },
+  "Primary Enrollment": {
+    "type": "float",
+    "description": "Number of students enrolled in primary education in Vietnam"
+  },
+  "GDP": {
+    "type": "float",
+    "description": "Vietnam's GDP per capita (current US$)"
+  }
+}
